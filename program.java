@@ -1,6 +1,6 @@
 class program{
 
 	public static void main(String[] args){
-		System.out.println("Hello World! modified second");
+		System.out.println("Hello World! conflict resolved!!");
 	}
 }
